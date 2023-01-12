@@ -1,0 +1,20 @@
+00:00:00.244178 VirtualBox GUI VM Selector Window 7.0.4 r154605 win.amd64 (Nov 16 2022 15:33:13) release log
+00:00:00.244180 Log opened 2023-01-02T14:07:01.172345700Z
+00:00:00.244181 Build Type: release
+00:00:00.244184 OS Product: Windows 11
+00:00:00.244185 OS Release: 10.0.22621
+00:00:00.244186 OS Service Pack: 
+00:00:00.261364 DMI Product Name: TUF Gaming FX505DD_TUF505DD
+00:00:00.265831 DMI Product Version: 1.0
+00:00:00.265851 Firmware type: UEFI
+00:00:00.266442 Secure Boot: Enabled
+00:00:00.266451 Host RAM: 7616MB (7.4GB) total, 2501MB (2.4GB) available
+00:00:00.266461 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.266461 Process ID: 23924
+00:00:00.266462 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.266712 Qt version: 5.15.2
+00:00:00.267598 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.285781 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.138427 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:03.816993 GUI: UICommon: Handling aboutToQuit request..
+00:00:04.332619 GUI: UICommon: aboutToQuit request handled!
